@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weiyu Cui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Delft University of Technology
+  url: https://www.tudelft.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Mobile Computing, Eye Tracking and Adversarial Transfering.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Computing
+- Eye Tracking
+- Adversarial Transfering
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Delft University of Technology
+    year: 2021-2025
+  - course: M.S. in Signal and Information Processing
+    institution: University of Electronic Science and Technology of China
+    year: 2018-2021
+  - course: BSc in Electronic Information Engineering
+    institution: Harbin Engineering University
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
