@@ -6,7 +6,7 @@ title: Weiyu Cui
 superuser: true
 
 # Role/position/tagline
-role: PhD of Computer Science
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,11 +27,11 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Delft University of Technology
-    year: 2021-2025
-  - course: M.S. in Signal and Information Processing
+    year: 2021- 
+  - course: M.S. in Electronic Engineering
     institution: University of Electronic Science and Technology of China
     year: 2018-2021
-  - course: BSc in Electronic Information Engineering
+  - course: BSc in Electronic Engineering
     institution: Harbin Engineering University
     year: 2014-2018
 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands.
+I am a PhD candidate supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands.
 
 
