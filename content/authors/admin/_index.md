@@ -32,7 +32,7 @@ education:
   - course: M.S. in Signal and Information Processing
     institution: University of Electronic Science and Technology of China (UESTC)
     year: 2018-2021
-  - course: BSc in Electronic Information Engineering
+  - course: B.S. in Electronic Information Engineering
     institution: Harbin Engineering University (HEU)
     year: 2014-2018
 
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'weiyu.cui@outlook.com'
+  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
