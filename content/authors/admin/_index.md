@@ -20,7 +20,7 @@ bio: My research interests include Mobile Computing, Eye Tracking and Adversaria
 interests:
 - Mobile Computing
 - Eye Tracking
-- Privacy Preserving
+#- Privacy Preserving
 - Adversarial Learning
 
 # Education to show in About widget
