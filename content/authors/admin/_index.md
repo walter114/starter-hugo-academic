@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:weiyu.cui@outlook.com'
-- icon: location
+- icon: map-pin
   icon_pack: fas
   link: https://goo.gl/maps/gEBJ6CevivhVUWTTA
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
