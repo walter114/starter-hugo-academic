@@ -27,13 +27,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Delft University of Technology
-    year: 2021- 
-  - course: M.S. in Electronic Engineering
-    institution: University of Electronic Science and Technology of China
+    institution: Delft University of Technology (TUD)
+    year: 2021-Now 
+  - course: M.S. in Signal and Information Processing
+    institution: University of Electronic Science and Technology of China (UESTC)
     year: 2018-2021
-  - course: BSc in Electronic Engineering
-    institution: Harbin Engineering University
+  - course: BSc in Electronic Information Engineering
+    institution: Harbin Engineering University (HEU)
     year: 2014-2018
 
 # Social/Academic Networking
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'weiyu.cui@outlook.com'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
