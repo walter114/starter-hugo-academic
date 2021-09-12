@@ -14,13 +14,14 @@ organizations:
   url: https://www.tudelft.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Mobile Computing, Eye Tracking and Adversarial Transfering.
+bio: My research interests include Mobile Computing, Eye Tracking and Adversarial Learning.
 
 # Interests to show in About widget
 interests:
 - Mobile Computing
 - Eye Tracking
-- Adversarial Transfering
+- Privacy Preserving
+- Adversarial Learning
 
 # Education to show in About widget
 education:
