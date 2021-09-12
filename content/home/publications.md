@@ -37,5 +37,6 @@ design:
   view: 4
 ---
 
-Cui, Weiyu, et al. "Substitute Model Generation for Black-Box Adversarial Attack Based on Knowledge Distillation." 2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020.[PDF](https://ieeexplore.ieee.org/document/9191063)
+Cui, Weiyu, Li, Xiaorui, Wang, Wenyi, et al. "Substitute Model Generation for Black-Box Adversarial Attack Based on Knowledge Distillation." 2020 IEEE International Conference on Image Processing (ICIP). IEEE, 2020.[PDF](https://ieeexplore.ieee.org/document/9191063)
 
+Li, Xiaorui, Cui, Weiyu, Wang, Wenyi, et al. "Regularized Intermediate Layers Attack: Adversarial Examples With High Transferability." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.[PDF](https://ieeexplore.ieee.org/abstract/document/9506671)
