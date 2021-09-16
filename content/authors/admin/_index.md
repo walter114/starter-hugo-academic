@@ -17,24 +17,24 @@ organizations:
 #bio: My research interests include Mobile Computing, Eye Tracking, Privacy Preserving and Adversarial Learning.
 
 # Interests to show in About widget
-interests:
-- Mobile Computing
-- Computer Vision
-- Eye Tracking
+#interests:
+#- Mobile Computing
+#- Computer Vision
+#- Eye Tracking
 
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Delft University of Technology
-    year: Since 2021 
-  - course: M.S. in Signal and Information Processing
-    institution: University of Electronic Science and Technology of China
-    year: 2021
-  - course: B.S. in Electronic Information Engineering
-    institution: Harbin Engineering University
-    year: 2018
+#education:
+# courses:
+#  - course: PhD in Computer Science
+#    institution: Delft University of Technology
+#    year: Since 2021 
+#  - course: M.S. in Signal and Information Processing
+#    institution: University of Electronic Science and Technology of China
+#    year: 2021
+#  - course: B.S. in Electronic Information Engineering
+#    institution: Harbin Engineering University
+#    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
