@@ -14,14 +14,13 @@ organizations:
   url: https://www.tudelft.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Mobile Computing, Eye Tracking, Privacy Preserving and Adversarial Learning.
+#bio: My research interests include Mobile Computing, Eye Tracking, Privacy Preserving and Adversarial Learning.
 
 # Interests to show in About widget
 interests:
 - Mobile Computing
-- Eye Tracking
-- Privacy Preserving
-- Adversarial Learning
+- Computer Vision
+
 
 # Education to show in About widget
 education:
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:weiyu.cui@outlook.com'
+  link: 'mailto:w.cui@tudelft.nl'
 - icon: map-pin
   icon_pack: fas
   link: https://goo.gl/maps/gEBJ6CevivhVUWTTA
@@ -65,12 +64,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "weiyu.cui@outlook.com"
+#email: "weiyu.cui@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a PhD candidate supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands.
+I am a PhD candidate supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Prof. Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands. 
+
+Before that, I received the M.S. degree in Signal and Information Processing from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), China, in June 2021 under the supervision of [Dr. Wenyi Wang](https://www.sice.uestc.edu.cn/info/1302/5291.htm) and [Prof. Dr. Jianwen Chen](https://www.sice.uestc.edu.cn/info/1302/5051.htm). I got my B.S. degree in Electronic Information Engineering from [Harbin Engineering University (HEU)](http://www.heu.edu.cn/), China in June 2018.
 
 
