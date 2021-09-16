@@ -71,10 +71,8 @@ email: "w.cui@tudelft.nl"
 highlight_name: true
 ---
 
-**Email:** w.cui AT tudelf.nl
-
-**Office:** 2.W.___, Building 28
-
+**Email:** w.cui AT tudelf.nl  
+**Office:** 2.W.___, Building 28  
 **Address:** Van Mourik Broekmanweg 6, 2628 XE Delft
 
 I am a PhD candidate supervised by [Dr. Guohao Lan](https://guohao.netlify.app/) and [Prof. Dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/) at the [Embedded and Networked Systems (ENS)](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) Group of the [Software Technology Department](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology), [Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS)](https://www.tudelft.nl/en/eemcs), [Delft University of Technology (TU Delft)](https://www.tudelft.nl/), The Netherlands. 
