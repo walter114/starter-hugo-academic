@@ -37,6 +37,6 @@ design:
   view: 4
 ---
 
-(1) **Weiyu Cui**, Xiaorui Li, Wenyi Wang, Jianwen Chen, et al. "Substitute Model Generation for Black-Box Adversarial Attack Based on Knowledge Distillation." IEEE International Conference on Image Processing (ICIP). 2020. [PDF](https://ieeexplore.ieee.org/document/9191063)
+(1) **Weiyu Cui**, Xiaorui Li, Wenyi Wang, et al. "Substitute Model Generation for Black-Box Adversarial Attack Based on Knowledge Distillation." IEEE International Conference on Image Processing (ICIP). 2020. [PDF](https://ieeexplore.ieee.org/document/9191063)
 
-(2) Xiaorui Li, **Weiyu Cui**, Wenyi Wang, Jianwen Chen, et al. "Regularized Intermediate Layers Attack: Adversarial Examples With High Transferability." IEEE International Conference on Image Processing (ICIP). 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9506671)
+(2) Xiaorui Li, **Weiyu Cui**, Wenyi Wang, et al. "Regularized Intermediate Layers Attack: Adversarial Examples With High Transferability." IEEE International Conference on Image Processing (ICIP). 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9506671)
